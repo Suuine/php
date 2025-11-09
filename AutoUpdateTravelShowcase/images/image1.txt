@@ -1,0 +1,2 @@
+Landscape 
+Welcome to the Automatic Image List showcase! This page dynamically displays all the images available in the 'images' folder. Feel free to explore the collection and enjoy the visual content. Each image is displayed with its filename for easy identification.

@@ -1,0 +1,6 @@
+Hameleon
+1. The file `text3.txt` is located in the `/c:/xampp/htdocs/php/AutoUpdateTravelShowcase/images/` directory.  
+2. It contains a single line of plaintext: "Hello, this is a simple text file for Hameleon."  
+3. The content appears to be a basic message, possibly for testing or demonstration purposes.  
+4. The file format is `.txt`, which is a standard plain text file.  
+5. It is likely being used in a PHP-based project hosted on a local XAMPP server.  
