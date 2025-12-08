@@ -4,7 +4,6 @@ class Book {
     private $pdo;
 
     public function __construct($pdo) {
-        // Перевірка, чи $pdo є валідним об'єктом PDO
         if (!$pdo instanceof PDO) {
             throw new Exception("Невірний об'єкт PDO передано в конструктор");
         }
@@ -72,4 +71,5 @@ class Book {
             return [];
         }
     }
+
 }
